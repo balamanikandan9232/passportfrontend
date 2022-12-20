@@ -1,0 +1,27 @@
+
+export const posts = [
+  {
+    id: 1,
+    title: "CSS Tips & Tricks",
+    img: "https://assets.justinmind.com/wp-content/webp-express/webp-images/uploads/2019/10/best-web-development-blogs-css-tricks.png.webp",
+    desc: "Hover Effects, Short Hand property, Overriding all stlyes,Tool Tip, Pseudo Code, Conditional Style, Parent & Child Elements, Particles, Text-Transform, Flex,Grid Templates, Table & Columns.",
+    longDesc:
+      "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit ad optio magnam veniam nihil, quasi in architecto dignissimos rerum, soluta ipsa nobis eos mollitia eligendi adipisci possimus pariatur dolorem ea? Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit ad optio magnam veniam nihil, quasi in architecto dignissimos rerum, soluta ipsa nobis eos mollitia eligendi adipisci possimus pariatur dolorem ea? Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit ad optio magnam veniam nihil, quasi in architecto dignissimos rerum, soluta ipsa nobis eos mollitia eligendi adipisci possimus pariatur dolorem ea? Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit ad optio magnam veniam nihil, quasi in architecto dignissimos rerum, soluta ipsa nobis eos mollitia eligendi adipisci possimus pariatur dolorem ea?Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit ad optio magnam veniam nihil, quasi in architecto dignissimos rerum, soluta ipsa nobis eos mollitia eligendi adipisci possimus pariatur dolorem ea? Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit ad optio magnam veniam nihil, quasi in architecto dignissimos rerum, soluta ipsa nobis eos mollitia eligendi adipisci possimus pariatur dolorem ea? Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit ad optio magnam veniam nihil, quasi in architecto dignissimos rerum, soluta ipsa nobis eos mollitia eligendi adipisci possimus pariatur dolorem ea? Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit ad optio magnam veniam nihil, quasi in architecto dignissimos rerum, soluta ipsa nobis eos mollitia eligendi adipisci possimus pariatur dolorem ea?",
+  },
+  {
+    id: 2,
+    title: "How to Animate Elements?",
+    img: "https://d3h2k7ug3o5pb3.cloudfront.net/image/2020-12-08/48c10db0-393a-11eb-bcbe-7daa1ab28fd4.jpg",
+    desc: "Navigation, Hover Animation, Progression, Skeleton Screens, Attracting Attention, Transition, Visual Feedback,Creative Effects,Dynamic Backgrounds,Galleries.",
+    longDesc:
+      "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit ad optio magnam veniam nihil, quasi in architecto dignissimos rerum, soluta ipsa nobis eos mollitia eligendi adipisci possimus pariatur dolorem ea? Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit ad optio magnam veniam nihil, quasi in architecto dignissimos rerum, soluta ipsa nobis eos mollitia eligendi adipisci possimus pariatur dolorem ea? Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit ad optio magnam veniam nihil, quasi in architecto dignissimos rerum, soluta ipsa nobis eos mollitia eligendi adipisci possimus pariatur dolorem ea? Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit ad optio magnam veniam nihil, quasi in architecto dignissimos rerum, soluta ipsa nobis eos mollitia eligendi adipisci possimus pariatur dolorem ea?Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit ad optio magnam veniam nihil, quasi in architecto dignissimos rerum, soluta ipsa nobis eos mollitia eligendi adipisci possimus pariatur dolorem ea? Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit ad optio magnam veniam nihil, quasi in architecto dignissimos rerum, soluta ipsa nobis eos mollitia eligendi adipisci possimus pariatur dolorem ea? Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit ad optio magnam veniam nihil, quasi in architecto dignissimos rerum, soluta ipsa nobis eos mollitia eligendi adipisci possimus pariatur dolorem ea? Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit ad optio magnam veniam nihil, quasi in architecto dignissimos rerum, soluta ipsa nobis eos mollitia eligendi adipisci possimus pariatur dolorem ea?",
+  },
+  {
+    id: 3,
+    title: "Want to learn Web Development?",
+    img: "https://th.bing.com/th/id/OIP.Iit8tynfxVxN346SYd3szwHaD8?w=321&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+    desc: "Code, Content, Design, Industry & Business, Process, User Experience,Front end Developers, Project Managers, UX/UI Designers, Graphic Designers, Content Creators ",
+    longDesc:
+      "The vast plains of the internet can be a bit overwhelming at times. Finding what you need has never been easier, but with billions of information fighting for your attention, it’s hard not to get lost. So if you’re struggling with finding proven blogs on web development, you’ve come to the right place  With this list of 10 best web development blogs, with a treat of best YouTube channels and podcasts, you’ll be able to stay up to date with the latest web standards on all fronts — front end, back end, as well as UX/UI design, and every other branch pertaining to the web development services.  Your experience doesn’t matter; if you’re a code newbie looking for new skills or you’re a veteran in the coding world looking for latest news, new standards or solutions to unconventional problems, this list is still for you. And even if you’re neither, and you simply want to discover all the things web development is about, stay on this page and read on!",
+  },
+];
